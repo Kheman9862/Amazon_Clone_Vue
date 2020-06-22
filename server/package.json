@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kheman garg",
+  "license": "ISC",
+  "dependencies": {
+    "algoliasearch": "^4.2.0",
+    "aws-sdk": "^2.610.0",
+    "axios": "^0.19.2",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.26.0",
+    "mongoose": "^5.9.2",
+    "mongoose-algolia": "^1.10.1",
+    "mongoose-deep-populate": "^3.1.1",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "stripe": "^8.56.0"
+  }
+}

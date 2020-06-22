@@ -1,0 +1,23 @@
+{
+  "name": "Admin",
+  "version": "1.0.0",
+  "description": "Amazon Clone Project Creating Admin Area",
+  "author": "Kheman Garg",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0",
+    "cors": "^2.8.5",
+    "nuxt": "^2.0.0",
+    "vue-star-rating": "^1.6.1"
+  },
+  "devDependencies": {}
+}

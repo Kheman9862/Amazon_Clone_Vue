@@ -1,0 +1,93 @@
+<div class="cr-widget-histogram">
+            <div class="row a-histogrm-row">
+              <div class="col-md-2 col-sm-2 col-2 pr-0">
+                <div class="aok-nowrap">
+                  <a href="#">5 star</a>
+                  <span class="a-letter-space"></span>
+                </div>
+              </div>
+              <div class="col-md-8 col-sm-8 col-8 pr-0">
+                <div>
+                  <a href="#">
+                    <div class="a-meter 5star">
+                      <div class="a-meter-bar a-meter-filled" style="width: 64%;"></div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-md-2 col-sm-2 col-2 pr-0">
+                <div class="aok-nowrap text-right">
+                  <a href="#">64%</a>
+                  <span class="a-letter-space"></span>
+                </div>
+              </div>
+            </div>
+            <div class="row a-histogrm-row" style="margin-top: -15px;">
+              <div class="col-md-2 col-sm-2 col-2 pr-0">
+                <div class="aok-nowrap">
+                  <a href="#">4 star</a>
+                  <span class="a-letter-space"></span>
+                </div>
+              </div>
+              <div class="col-md-8 col-sm-8 col-8 pr-0">
+                <div>
+                  <a href="#">
+                    <div class="a-meter 5star">
+                      <div class="a-meter-bar a-meter-filled" style="width: 14%;"></div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-md-2 col-sm-2 col-2 pr-0">
+                <div class="aok-nowrap text-right">
+                  <a href="#">14%</a>
+                  <span class="a-letter-space"></span>
+                </div>
+              </div>
+            </div>
+            <div class="row a-histogrm-row" style="margin-top: -15px;">
+              <div class="col-md-2 col-sm-2 col-2 pr-0">
+                <div class="aok-nowrap">
+                  <a href="#">3 star</a>
+                  <span class="a-letter-space"></span>
+                </div>
+              </div>
+              <div class="col-md-8 col-sm-8 col-8 pr-0">
+                <div>
+                  <a href="#">
+                    <div class="a-meter 5star">
+                      <div class="a-meter-bar a-meter-filled" style="width: 4%;"></div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-md-2 col-sm-2 col-2 pr-0">
+                <div class="aok-nowrap text-right">
+                  <a href="#">4%</a>
+                  <span class="a-letter-space"></span>
+                </div>
+              </div>
+            </div>
+            <div class="row a-histogrm-row" style="margin-top: -15px;">
+              <div class="col-md-2 col-sm-2 col-2 pr-0">
+                <div class="aok-nowrap">
+                  <a href="#">2 star</a>
+                  <span class="a-letter-space"></span>
+                </div>
+              </div>
+              <div class="col-md-8 col-sm-8 col-8 pr-0">
+                <div>
+                  <a href="#">
+                    <div class="a-meter 5star">
+                      <div class="a-meter-bar a-meter-filled" style="width: 0%;"></div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-md-2 col-sm-2 col-2 pr-0">
+                <div class="aok-nowrap text-right">
+                  <a href="#">0%</a>
+                  <span class="a-letter-space"></span>
+                </div>
+              </div>
+            </div>
