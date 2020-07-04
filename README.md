@@ -4,7 +4,7 @@
 ## Link to the Project is:
 
 http://amazon-clone-vue.herokuapp.com/
-** Note That It might take 5-10seconds to open this website. **
+** Note That It might take 5-10seconds to open this website. 
 
 ## Description
 ```
