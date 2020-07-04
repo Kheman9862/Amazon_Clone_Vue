@@ -104,10 +104,11 @@ Ports are different so that none of them clash with each other to run admin and 
 
 Inside the client side you can add, remove and update products/authors/users. I am sharing some of the the screenshots of the admin side I will not be providing the actual weblink for this one because it is an admin side for the privacy.
 
-<img width="500" height="200" src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin1.JPG" alt="Admin" width="1000" height="350">
-<img width="500" height="200" src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin2.JPG" alt="Admin" width="1000" height="350">
-<img width="500" height="200" src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin3.JPG" alt="Admin" width="1000" height="350">
-<img width="500" height="200" src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin4.JPG" alt="Admin" width="1000" height="350">
+
+<img align="center" width="800" height="300" src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin1.JPG" alt="Admin" width="1000" height="350">
+<img align="center" width="600" height="300" src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin2.JPG" alt="Admin" width="1000" height="350">
+<img align="center" width="600" height="300" src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin3.JPG" alt="Admin" width="1000" height="350">
+<img align="center" width="600" height="300" src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin4.JPG" alt="Admin" width="1000" height="350">
 
 
 
