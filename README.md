@@ -58,7 +58,7 @@ I will recommend to use Postman to see the working of the server side. I am atta
 <br />
 
 <p align="center">
-        <img src="postman.jpg" alt="Postman" width="1000" height="350">
+        <img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Postman.JPG" alt="Postman" width="1000" height="350">
 </p>
 
 To start the server you can enter the following in your cmd:
