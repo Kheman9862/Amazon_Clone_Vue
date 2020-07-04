@@ -1,4 +1,4 @@
-# Amazon_Clone_Vue
+# Amazon_Clone_Vue (Full-Stack Project)
 
 
 ## Link to the Project is:
@@ -25,7 +25,9 @@ http://amazon-clone-vue.herokuapp.com/
 
 ### Instructions to install the package manager:
 
--Go to the server folder and then opn the git bash or command line and go to the same server folder directory and then do the following:
+## SERVER SIDE
+
+Go to the server folder and then opn the git bash or command line and go to the same server folder directory and then do the following:
 
 ```
 # install dependencies
@@ -58,7 +60,7 @@ I will recommend to use Postman to see the working of the server side. I am atta
 <br />
 
 <p align="center">
-        <img src="postman.jpg" alt="Postman" width="1000" height="350">
+        <img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Postman.JPG" alt="Postman" width="1000" height="350">
 </p>
 
 To start the server you can enter the following in your cmd:
@@ -67,15 +69,56 @@ To start the server you can enter the following in your cmd:
 node server
 
 ```
-Remeber This will run on port 3000 by default as this is given in the source code.
+Remeber This will run on port 3000 as it is mentioned in the code to listen the app.
+
+### List of the dependencies used:
+
+```
+    "algoliasearch": "^4.2.0",
+    "aws-sdk": "^2.610.0",
+    "axios": "^0.19.2",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.26.0",
+    "mongoose": "^5.9.2",
+    "mongoose-algolia": "^1.10.1",
+    "mongoose-deep-populate": "^3.1.1",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "stripe": "^8.56.0"
+  
+  ```
+## ADMIN SIDE
+
+First of all remeber that your server side is running. Now to run this Go to the comand line and in client directory and run:
+
+```
+PORT=9000 npm run dev    
+```
+Ports are different so that none of them clash with each other to run admin and lient it is important that server is running.
+
+Inside the client side you can add, remove and update products/authors/users. I am sharing some of the the screenshots of the admin side I will not be providing the actual weblink for this one because it is an admin side for the privacy.
+
+<img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin1.JPG" alt="Admin" width="1000" height="350">
+<img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin2.JPG" alt="Admin" width="1000" height="350">
+<img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin3.JPG" alt="Admin" width="1000" height="350">
+<img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin4.JPG" alt="Admin" width="1000" height="350">
+
+
+
+
+## CLIENT SIDE
 
 Now Go The admin and client folder which is the front end of the website now to run both of these you can type in:
 
 ```
-PORT=6001 npm start    -------For Admin Section
-PORT=9000 npm start    -------For Client Section
+PORT=6001 run dev   
 ```
-Ports are different so that none of them clash with each other to run admin and lient it is important that server is running.
 
 
 
