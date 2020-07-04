@@ -1,5 +1,5 @@
 
-![Repository Logo](https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Postman.JPG)
+![Repository Logo](https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Client2.JPG)
 
 # Amazon_Clone_Vue (Full-Stack Project)
 
@@ -151,6 +151,13 @@ PORT=6001 run dev
     "vue-star-rating": "^1.6.1",
     "vuex-persistedstate": "^3.0.1"
 ```
+Log in Image:
+
+
+<p align="center">
+        <img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Client1.JPG" alt="Postman" width="1000" height="350">
+</p>
+
 
 
 
