@@ -137,7 +137,7 @@ PORT=6001 run dev
 
 ### List of the dependencies used:
 
-'''
+```
     "@nuxtjs/auth": "^4.8.5",
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/pwa": "^3.0.0-0",
@@ -147,7 +147,7 @@ PORT=6001 run dev
     "nuxt": "^2.0.0",
     "vue-star-rating": "^1.6.1",
     "vuex-persistedstate": "^3.0.1"
-'''
+```
 
 
 
