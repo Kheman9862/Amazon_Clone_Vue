@@ -1,4 +1,4 @@
-# Amazon_Clone_Vue
+# Amazon_Clone_Vue (Full-Stack Project)
 
 
 ## Link to the Project is:
@@ -25,7 +25,9 @@ http://amazon-clone-vue.herokuapp.com/
 
 ### Instructions to install the package manager:
 
--Go to the server folder and then opn the git bash or command line and go to the same server folder directory and then do the following:
+## SERVER SIDE
+
+Go to the server folder and then opn the git bash or command line and go to the same server folder directory and then do the following:
 
 ```
 # install dependencies
@@ -67,15 +69,48 @@ To start the server you can enter the following in your cmd:
 node server
 
 ```
-Remeber This will run on port 3000 by default as this is given in the source code.
+Remeber This will run on port 3000 as it is mentioned in the code to listen the app.
+
+### List of the dependencies used:
+
+```
+    "algoliasearch": "^4.2.0",
+    "aws-sdk": "^2.610.0",
+    "axios": "^0.19.2",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.26.0",
+    "mongoose": "^5.9.2",
+    "mongoose-algolia": "^1.10.1",
+    "mongoose-deep-populate": "^3.1.1",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "stripe": "^8.56.0"
+  
+  ```
+## CLIENT SIDE
+
+First of all remeber that your server side is running. Now to run this Go to the comand line and in client directory and run:
+
+```
+PORT=9000 npm start    -------For Client Section
+```
+Ports are different so that none of them clash with each other to run admin and lient it is important that server is running.
+
+Inside the client side you can add, remove and update products/authors/users.
+
+## ADMIN SIDE
 
 Now Go The admin and client folder which is the front end of the website now to run both of these you can type in:
 
 ```
 PORT=6001 npm start    -------For Admin Section
-PORT=9000 npm start    -------For Client Section
 ```
-Ports are different so that none of them clash with each other to run admin and lient it is important that server is running.
 
 
 
