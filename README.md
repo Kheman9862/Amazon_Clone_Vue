@@ -158,8 +158,9 @@ Log in Image:
         <img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Client1.JPG" alt="Client" width="1000" height="350">
 </p>
  
- [![Client Page Video](https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Client3.mp4)]
-
+ 
+ **(https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Client3.mp4)**
+ Open the video to take a sneak peek inside the front end.
 
 
 
