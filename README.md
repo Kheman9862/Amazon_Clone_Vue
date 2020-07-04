@@ -1,3 +1,6 @@
+
+![Repository Logo](https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Postman.JPG)
+
 # Amazon_Clone_Vue (Full-Stack Project)
 
 
