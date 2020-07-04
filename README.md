@@ -1,5 +1,11 @@
 # Amazon_Clone_Vue
 
+
+# Link to the Project is:
+
+http://amazon-clone-vue.herokuapp.com/
+## Note That It might take 5-10seconds to open this website.
+
 # Description
 ```
 >  Developed a CRUD operation Amazon clone using Vue.js framework, Node.js, and Bootstrap.
@@ -10,8 +16,4 @@
 >  Data Storage used in this project is MongoDB and AWS S3 for the images.
 >  Deployed both frontend and backend Heroku App.
 ```
-# Link to the Project is:
-
-
-http://amazon-clone-vue.herokuapp.com/
 
