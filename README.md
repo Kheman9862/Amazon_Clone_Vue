@@ -155,8 +155,10 @@ Log in Image:
 
 
 <p align="center">
-        <img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Client1.JPG" alt="Postman" width="1000" height="350">
+        <img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Client1.JPG" alt="Client" width="1000" height="350">
 </p>
+ 
+ [![Client Page Video](https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Client3.mp4)]
 
 
 
