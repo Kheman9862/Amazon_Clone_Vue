@@ -93,23 +93,31 @@ Remeber This will run on port 3000 as it is mentioned in the code to listen the 
     "stripe": "^8.56.0"
   
   ```
-## CLIENT SIDE
+## ADMIN SIDE
 
 First of all remeber that your server side is running. Now to run this Go to the comand line and in client directory and run:
 
 ```
-PORT=9000 npm start    -------For Client Section
+PORT=9000 npm run dev    
 ```
 Ports are different so that none of them clash with each other to run admin and lient it is important that server is running.
 
-Inside the client side you can add, remove and update products/authors/users.
+Inside the client side you can add, remove and update products/authors/users. I am sharing some of the the screenshots of the admin side I will not be providing the actual weblink for this one because it is an admin side for the privacy.
 
-## ADMIN SIDE
+<img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin1.JPG" alt="Admin" width="1000" height="350">
+<img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin2.JPG" alt="Admin" width="1000" height="350">
+<img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin3.JPG" alt="Admin" width="1000" height="350">
+<img src="https://github.com/Kheman9862/Amazon_Clone_Vue/blob/master/Images/Admin4.JPG" alt="Admin" width="1000" height="350">
+
+
+
+
+## CLIENT SIDE
 
 Now Go The admin and client folder which is the front end of the website now to run both of these you can type in:
 
 ```
-PORT=6001 npm start    -------For Admin Section
+PORT=6001 run dev   
 ```
 
 
